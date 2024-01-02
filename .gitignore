@@ -1,5 +1,5 @@
 # ignore large csv file
-power_results_all.csv
+# power_results_all.csv # no longer ignoring it since it is tracked by LFS
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
