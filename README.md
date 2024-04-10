@@ -49,4 +49,4 @@ The significance level (alpha) determines the probability of rejecting a true nu
 
 #### 1. Statistical power
 
-Percent of the time the minimum effect size will be detected, assuming it exists.
+Percent of the time the minimum effect size will be detected, assuming it exists!
